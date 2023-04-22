@@ -1,0 +1,3 @@
+﻿  proiect poo.cpp
+C:\Users\Silviu\source\repos\proiect poo\proiect poo\proiect poo.cpp(558,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  proiect poo.vcxproj -> C:\Users\Silviu\source\repos\proiect poo\x64\Debug\proiect poo.exe
